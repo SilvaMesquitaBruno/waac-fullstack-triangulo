@@ -1,0 +1,7 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "Aplicação FullStack, para resolução do desafio proposto pela Waac, aplicação se resume em ExpressJs no backend e ReactJS no frontend, ",
+  "main": "index.js",
+  "license": "MIT"
+}
