@@ -47,6 +47,7 @@ Linguagem que atende melhor quando o requisito é fullstack, contém uma gama de
 - **Mongoose**, para o banco não relacional.
 - **Yup**, para validações. 
 - **Eslint**, **Prettier**, para estilização do codigo para melhor entendimento(Padrão Airbnb).
+- **Jest**, framework para testes.
 
 #### Frontend
     
