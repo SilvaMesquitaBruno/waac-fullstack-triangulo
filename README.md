@@ -1,5 +1,7 @@
 # Teste de Lógica - WAAC 
 
+*Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende.*
+
 ## Links com os códigos
 [backend](https://github.com/SilvaMesquitaBruno/waac-backend-triangulos)
 [frontend](https://github.com/SilvaMesquitaBruno/waac-frontend-triangulos)
