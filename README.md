@@ -55,3 +55,12 @@ Linguagem que atende melhor quando o requisito é fullstack, contém uma gama de
 - **Axios**, lib para conexão com a API.
 - **Eslint**, **Prettier**, para estilização do codigo para melhor entendimento(Padrão Airbnb).
 
+### Problemas Encontrados
+
+Criação da matriz a partir de inputs do usuario.
+
+#### Minhas Limitações Atuais
+
+- Mostrar o triângulo de forma tracejada com o caminho percorrido.
+- inputs Dinâmicos, adicionar mais linhas na matriz e remover.
+
